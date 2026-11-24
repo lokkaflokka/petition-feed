@@ -15,7 +15,7 @@
   "https://action.nrdc.org/letter/3928-tell-epa-replace-every-lead-pipe-041025": {
    "cause": "Environment",
    "first_seen": "baseline",
-   "listed": true,
+   "listed": false,
    "nj": false,
    "posted": "2025-04-10",
    "source": "NRDC",
@@ -23,6 +23,18 @@
    "summary": "Last year, the EPA established a strong rule requiring that virtually every lead pipe will be replaced in 10 years\u2014a critical step in protecting our health. But the Trump EPA has not committed to defending that new rule\u2014and the deadline\u2026",
    "title": "Tens of millions of people receive their drinking water from a lead pipe",
    "url": "https://action.nrdc.org/letter/3928-tell-epa-replace-every-lead-pipe-041025"
+  },
+  "https://action.nrdc.org/letter/3970-public-lands-042525": {
+   "cause": "Environment",
+   "first_seen": "2026-11-24",
+   "listed": true,
+   "nj": false,
+   "posted": "2025-04-25",
+   "source": "NRDC",
+   "source_key": "nrdc",
+   "summary": "The Trump administration announced a plan that would allow companies to drill and mine with little oversight\u2014with practically no say from the public. Plus, the Interior Department is looking to slash protections for several of our national monuments. Tell Interior\u2026",
+   "title": "Stop our wildlands & waters from being auctioned off to corporate polluters!",
+   "url": "https://action.nrdc.org/letter/3970-public-lands-042525"
   },
   "https://action.nrdc.org/letter/4069-pollinators-053025": {
    "cause": "Environment",
@@ -366,7 +378,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "10 days left",
+   "note": "7 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -626,7 +638,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "52 days left",
+   "note": "49 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -652,7 +664,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "27 days left",
+   "note": "24 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -704,7 +716,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "19 days left",
+   "note": "16 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -756,7 +768,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "24 days left",
+   "note": "21 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -1355,5 +1367,5 @@
   "humane": 11,
   "nrdc": 17
  },
- "updated": "2026-11-23"
+ "updated": "2026-11-24"
 }
