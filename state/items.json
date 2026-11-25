@@ -15,7 +15,7 @@
   "https://action.nrdc.org/letter/3928-tell-epa-replace-every-lead-pipe-041025": {
    "cause": "Environment",
    "first_seen": "baseline",
-   "listed": false,
+   "listed": true,
    "nj": false,
    "posted": "2025-04-10",
    "source": "NRDC",
@@ -27,7 +27,7 @@
   "https://action.nrdc.org/letter/3970-public-lands-042525": {
    "cause": "Environment",
    "first_seen": "2026-11-24",
-   "listed": true,
+   "listed": false,
    "nj": false,
    "posted": "2025-04-25",
    "source": "NRDC",
@@ -378,7 +378,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "7 days left",
+   "note": "6 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -638,7 +638,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "49 days left",
+   "note": "48 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -664,7 +664,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "24 days left",
+   "note": "23 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -716,7 +716,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "16 days left",
+   "note": "15 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -768,7 +768,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "21 days left",
+   "note": "20 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -1367,5 +1367,5 @@
   "humane": 11,
   "nrdc": 17
  },
- "updated": "2026-11-24"
+ "updated": "2026-11-25"
 }
