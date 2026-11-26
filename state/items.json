@@ -378,7 +378,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "6 days left",
+   "note": "4 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -638,7 +638,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "48 days left",
+   "note": "46 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -664,7 +664,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "23 days left",
+   "note": "21 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -716,7 +716,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "15 days left",
+   "note": "13 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -768,7 +768,7 @@
    "first_seen": "baseline",
    "listed": true,
    "nj": false,
-   "note": "20 days left",
+   "note": "18 days left",
    "posted": null,
    "source": "Earthjustice",
    "source_key": "earth",
@@ -1367,5 +1367,5 @@
   "humane": 11,
   "nrdc": 17
  },
- "updated": "2026-11-25"
+ "updated": "2026-11-26"
 }
